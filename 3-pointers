@@ -1,0 +1,35 @@
+<link type="text/css" href="/NBA-Leaderboards/styles.css" media="all" rel="stylesheet">
+
+<h1>
+Players with the 3-ponters made:
+</h1>
+
+<img src="https://cdn.nba.com/headshots/nba/latest/1040x760/201939.png" alt="Stephen Curry" width="300">
+
+<h2>
+1. Stephen Curry: 3390 3-pointers
+</h2>
+
+<img src="https://cdn.nba.com/headshots/nba/latest/1040x760/951.png" alt="Ray Allen" width="300">
+
+<h3>
+2. Ray Allen: 2973 3-pointers
+</h3>
+
+<img src="https://cdn.nba.com/headshots/nba/latest/1040x760/201935.png" alt="James Harden" width="300">
+
+<h4>
+3. James Harden: 2754 3-pointers
+</h4>
+
+<img src="https://cdn.nba.com/headshots/nba/latest/1040x760/397.png" alt="Reggie Miller" width="300">
+
+<h5>
+4. Reggie Miller: 2560 3-pointers
+</h5>
+
+<img src="https://cdn.nba.com/headshots/nba/latest/1040x760/2594.png" alt="Kyle Krover" width="300">
+
+<h6>
+5. Kyle Krover: 2450 3-pointers
+</h6>
