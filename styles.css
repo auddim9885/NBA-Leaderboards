@@ -22,6 +22,13 @@ link1,link2,link3,link4,link5: hover {
   text-decoration: underline;
 }
 
+link1,link2,link3,link4,link5: visited {
+  font-size: 20px;
+  color: red;
+  background-color: transparent;
+  text-decoration: none;
+}
+
 body {
   background-color: rgb(34,83,163);
 }
