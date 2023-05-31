@@ -7,3 +7,11 @@ h2,h3,h4,h5,h6 {
   font-size: 35px;
   font-family: Arial, Helvetica, sans-serif;
 }
+
+link1,link2,link3,link4,link5 {
+  font-size: 20px;
+}
+
+body {
+  background-color: lightblue;
+}
