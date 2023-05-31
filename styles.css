@@ -10,6 +10,7 @@ h2,h3,h4,h5,h6 {
 
 link1,link2,link3,link4,link5 {
   font-size: 20px;
+  color: red;
 }
 
 body {
